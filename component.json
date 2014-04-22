@@ -1,0 +1,9 @@
+{
+  "name": "normalize-multiple-component",
+  "version": "0.0.0",
+  "main": "a.js",
+  "scripts": [
+    "a.js",
+    "b.js"
+  ]
+}
